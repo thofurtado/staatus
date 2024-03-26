@@ -1,0 +1,15 @@
+{
+  "name": "staatus",
+  "version": "1.0.0",
+  "description": "Windows Desktop Format Checklist",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "electron ."
+  },
+  "author": "Thomás Furtado",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.5"
+  }
+}
